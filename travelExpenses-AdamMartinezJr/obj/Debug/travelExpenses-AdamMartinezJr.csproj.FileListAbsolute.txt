@@ -1,0 +1,10 @@
+D:\College\Fall 2023\4350 Advance Computer Programming\Week 10\Assignment 4\travelExpenses-AdamMartinezJr\travelExpenses-AdamMartinezJr\bin\Debug\travelExpenses-AdamMartinezJr.exe.config
+D:\College\Fall 2023\4350 Advance Computer Programming\Week 10\Assignment 4\travelExpenses-AdamMartinezJr\travelExpenses-AdamMartinezJr\bin\Debug\travelExpenses-AdamMartinezJr.exe
+D:\College\Fall 2023\4350 Advance Computer Programming\Week 10\Assignment 4\travelExpenses-AdamMartinezJr\travelExpenses-AdamMartinezJr\bin\Debug\travelExpenses-AdamMartinezJr.pdb
+D:\College\Fall 2023\4350 Advance Computer Programming\Week 10\Assignment 4\travelExpenses-AdamMartinezJr\travelExpenses-AdamMartinezJr\obj\Debug\travelExpenses-AdamMartinezJr.csprojAssemblyReference.cache
+D:\College\Fall 2023\4350 Advance Computer Programming\Week 10\Assignment 4\travelExpenses-AdamMartinezJr\travelExpenses-AdamMartinezJr\obj\Debug\travelExpenses_AdamMartinezJr.Form1.resources
+D:\College\Fall 2023\4350 Advance Computer Programming\Week 10\Assignment 4\travelExpenses-AdamMartinezJr\travelExpenses-AdamMartinezJr\obj\Debug\travelExpenses_AdamMartinezJr.Properties.Resources.resources
+D:\College\Fall 2023\4350 Advance Computer Programming\Week 10\Assignment 4\travelExpenses-AdamMartinezJr\travelExpenses-AdamMartinezJr\obj\Debug\travelExpenses-AdamMartinezJr.csproj.GenerateResource.cache
+D:\College\Fall 2023\4350 Advance Computer Programming\Week 10\Assignment 4\travelExpenses-AdamMartinezJr\travelExpenses-AdamMartinezJr\obj\Debug\travelExpenses-AdamMartinezJr.csproj.CoreCompileInputs.cache
+D:\College\Fall 2023\4350 Advance Computer Programming\Week 10\Assignment 4\travelExpenses-AdamMartinezJr\travelExpenses-AdamMartinezJr\obj\Debug\travelExpenses-AdamMartinezJr.exe
+D:\College\Fall 2023\4350 Advance Computer Programming\Week 10\Assignment 4\travelExpenses-AdamMartinezJr\travelExpenses-AdamMartinezJr\obj\Debug\travelExpenses-AdamMartinezJr.pdb
